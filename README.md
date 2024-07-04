@@ -56,5 +56,3 @@ Contributions are welcome! If you have suggestions, improvements, or find bugs, 
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 ```
-
-Agora está tudo corretamente formatado como código markdown.
